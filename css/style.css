@@ -5,6 +5,10 @@ body {
   font-size: 10px;
 }
 
+.more {
+  display: none;
+}
+
 * {
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
